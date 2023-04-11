@@ -72,3 +72,9 @@ form input{
 .display_line{
     width: 100%;
 }
+
+@media screen and (max-width: 1235px) {
+    body{
+        background-image: linear-gradient(to bottom right, indianred 20%, #333 10%);
+    }
+}
